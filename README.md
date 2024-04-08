@@ -1,7 +1,7 @@
-# Very Cool Bot
+# Very Cool Bot (Rewritten)
 
-Very cool bot is a Discord bot written in Python using the Lightbulb library. It provides various functionalities for server moderation and entertainment.
-*it is an open source version of *
+Very cool bot REWRITTEN is a Discord bot written in Python using both the hikari and Lightbulb libraries. It provides various functionalities for server moderation and entertainment.
+### have fun!
 
 ## Features:
 
