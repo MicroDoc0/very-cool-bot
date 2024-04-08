@@ -1,5 +1,0 @@
-name="example tag name"
-desc="example tag description"
-
-name="second tag"
-desc="the description of the second tag"
