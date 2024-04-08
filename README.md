@@ -16,11 +16,27 @@ Very cool bot is a Discord bot written in Python using the Lightbulb library. It
 - **Tag Command:** Shows the description of a specific tag from the text file. (Command options update automatically)
 
 ## Getting Started:
-0. **Open Discord's development portal**
+- **Open Discord's development portal**
 ### Press "Create a new application"
-![[press]](images/ss1.png)
+![[press]](images/ss1.PNG)
+### Choose your app name and agree to the guidelines
+![[press]](images/ss2.PNG)
+### Press the "Bot" tab
+![[press]](images/ss3.PNG)
+### Click on "reset token"
+![[press]](images/ss4.PNG)
+![[press]](images/ss5.PNG)
+### Modify the code to incllude the correct values. 
+### (config.py)
+![[press]](images/ss6.PNG)
+### (bot.py)
+![[press]](images/ss7.PNG)
+### Modify tags.txt if neccesary.
+
+### Next Step: Coding
 1. **Install Dependencies:** Make sure you have Python and the required libraries (`hikari`, `lightbulb`, and any others) installed. You can use `pip install` for this.
 2. **Configuration:** Replace the placeholder values in the code for `mod_id`, `hmod_id`, `admin_id`, `BOT_TOKEN`, and potentially file paths if needed.
+### ^^ if you somehow forgot to do it before.
 3. **Run the Bot:** Execute the script using `python bot.py`.
 
 ## Additional Notes:
