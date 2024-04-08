@@ -17,8 +17,8 @@ Very cool bot is a Discord bot written in Python using the Lightbulb library. It
 
 ## Getting Started:
 0. **Open Discord's development portal**
-### Press 
-![[press]](images/screenshot.png)
+### Press "Create a new application"
+![[press]](images/ss1.png)
 1. **Install Dependencies:** Make sure you have Python and the required libraries (`hikari`, `lightbulb`, and any others) installed. You can use `pip install` for this.
 2. **Configuration:** Replace the placeholder values in the code for `mod_id`, `hmod_id`, `admin_id`, `BOT_TOKEN`, and potentially file paths if needed.
 3. **Run the Bot:** Execute the script using `python bot.py`.
